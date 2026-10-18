@@ -50,7 +50,7 @@ const IconClose = () => (
 );
 
 const CARDS = [
-  { id: "cv"        as Choice, label: "Download CV",     sub: "PDF · 2 pages",        Icon: IconCV },
+  { id: "cv"        as Choice, label: "Download CV",     sub: "PDF",        Icon: IconCV },
   { id: "portfolio" as Choice, label: "See portfolio",   sub: "Selected projects",     Icon: IconPortfolio },
   { id: "linkedin"  as Choice, label: "Yosr's LinkedIn", sub: "Professional profile",  Icon: IconLinkedIn },
   { id: "github"    as Choice, label: "Yosr's GitHub",   sub: "Code & projects",       Icon: IconGitHub },
