@@ -30,8 +30,17 @@ yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
 
-# env files (can opt-in for committing if needed)
-.env*
+# env files - keep example, ignore local secrets
+.env.local
+.env.production
+.env.development
+
+# submission logs (contains recruiter emails, keep private)
+/logs/*.csv
+/logs/*.json
+
+# QR code outputs
+/public/qr/
 
 # vercel
 .vercel

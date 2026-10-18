@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="14" fill="#0F172A"/>
+  <!-- Bracket left -->
+  <path d="M12 20 L6 32 L12 44" stroke="#06B6D4" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- Bracket right -->
+  <path d="M52 20 L58 32 L52 44" stroke="#06B6D4" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- Y -->
+  <text x="18" y="40" font-family="Arial, sans-serif" font-weight="800" font-size="20" fill="#F8FAFC">YS</text>
+</svg>
